@@ -2,7 +2,7 @@
 本项目为 Robert Sedgewick 和 Kevin Wayne 所著的《算法》第四版课后问题的解答。
 
 - [English](README.md)
-- [简体中文][README.ch.md)
+- [简体中文](README.ch.md)
 
 <a href="url"><img src="resources/book_cover.png" align="right" height="280" width="200" ></a>
 
